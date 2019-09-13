@@ -450,6 +450,17 @@
 		color: rgba(255, 255, 255, 0.50);
 		background-attachment: fixed;
 		background-image: url("../../images/bg/overlay_70.png"), url("../../images/bg/bg1.jpg");
+		/*background-image: url("../../images/bg/bg1.jpg");*/
+
+
+  		/*background: radial-gradient(
+  			ellipse, 
+  			rgba(0,0,255,0.7),
+  			rgba(0,0,0,0.0)), 
+  		url("../../images/bg/bg1.jpg");*/
+
+
+
 		background-position: -300px -250px;
 		/*background-size: cover;
 		/*text-align: center;*/
@@ -507,7 +518,7 @@
 
 	.org_logos2 {
 		/*width: 60%;*/
-		width: 90%;
+		width: 80%;
 		
 	}
 
