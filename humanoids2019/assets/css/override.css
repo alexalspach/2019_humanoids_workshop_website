@@ -449,8 +449,10 @@
 		background-color: #101524;
 		color: rgba(255, 255, 255, 0.50);
 		background-attachment: fixed;
-		background-image: url("../../images/bg/overlay_70.png"), url("../../images/bg/bg1.jpg");
-		/*background-image: url("../../images/bg/bg1.jpg");*/
+
+
+		background-position: -300px -390px;
+		background-image: url("../../images/bg/bg4.jpg");
 
 
   		/*background: radial-gradient(
@@ -460,8 +462,13 @@
   		url("../../images/bg/bg1.jpg");*/
 
 
+		/*background-image: url("../../images/bg/overlay_70.png"), url("../../images/bg/bg1.jpg");
+		background-position: -300px -250px;*/
+		
 
-		background-position: -300px -250px;
+
+
+
 		/*background-size: cover;
 		/*text-align: center;*/
 	}	
@@ -491,7 +498,8 @@
 	}	
 
 	#banner .bighero-font {
-		color: #ef9825;
+		/*color: #ef9825;*/
+		color: #ffa630;
 		font-size: 3em;
 		margin: 0 0 0.2em 0;
 		padding: 0;
